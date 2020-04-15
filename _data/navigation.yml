@@ -4,7 +4,9 @@
   url: /
 - text: About
   url: /about
-- text: Contact
-  url: /contact
+- text: Subscribe
+  url: /subscribe
 - text: Blog
   url: /blog
+- text: Resources
+  url: /resources

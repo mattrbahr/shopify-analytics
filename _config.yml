@@ -13,13 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jekyll Netlify Boilerplate
-email: your-email@example.com
+title: Shopify Analytics Blog
+email: mattrbahr@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml.
+  A blog dedicated to Shopify analytics.
 baseurl: "" # the subpath of your site if applicable, e.g. /blog
-url: "https://jekyll-netlify-boilerplate.netlify.com" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://shopifyanalytics.blog" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Permalink format (/blog/ is ignored for pages)
 permalink: /blog/:title
@@ -54,12 +53,29 @@ defaults:
       section: "post" # set the root section name
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 
 # Kramdown options
-kramdown:
+# kramdown:
   # Prevent IDs from being added to h1-h6 tags
-  auto_ids: false
+ # auto_ids: false
+
+# Highlighter settings
+# highlighter: rouge
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  audo_ids: false
+  syntax_highlighter_opts:
+    default_lang: html
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
 
 # Include in processing (e.g. Netlify directives)
 # Uncomment before use
