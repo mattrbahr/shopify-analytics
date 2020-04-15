@@ -5,7 +5,7 @@ permalink: /subscribe
 section: subscribe
 intro_paragraph: |-
 
-  Interested in recieveing an email when we publish a new query or add a new analytics resource? Submit your email below to subscribe.
+  Interested in receiving an email when we publish a new query or add a new analytics resource? Submit your email below to subscribe.
 ---
 
 
