@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: About
 permalink: /about
 section: about
@@ -9,5 +9,7 @@ intro_paragraph: >
 
 Many of the queries we'll discuss on this blog are not meant to be mission critical, but rather insightful and often times fun. 
 
-{% include contact-form.html %}
+<br>
+
+**Contact Us**
 

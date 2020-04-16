@@ -139,8 +139,9 @@ nav[aria-label="Adjacent Posts"] {
   }
 }
 
+
 // contact form
-html[data-current="contact"] main > form {
+html[data-current="about"] main > form {
   display: grid;
   label {
     display: none;
@@ -155,6 +156,7 @@ html[data-current="contact"] main > form {
     width: 100%;
   }
 }
+
 
 // subscribe form
 html[data-current="subscribe"] main > form {
