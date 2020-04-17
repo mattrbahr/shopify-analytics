@@ -14,3 +14,4 @@ This week we'll be looking at the time between when an order is placed to when a
 You don't necessarily want to send your confirmation email. 
 
 <script src="https://gist.github.com/mattrbahr/7ed95e950870b16096a413889d492b18.js"></script>
+
