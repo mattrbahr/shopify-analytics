@@ -77,6 +77,11 @@ kramdown:
       line_numbers: true
       start_line: 1
 
+# Sitemap
+url: "https://shopifyanalytics.blog" 
+plugins:
+  - jekyll-sitemap
+
 # Include in processing (e.g. Netlify directives)
 # Uncomment before use
 

@@ -11,6 +11,10 @@ intro_paragraph: >
 
 This week we'll be looking at the time between when an order is placed to when a customer receives their order confirmation email.
 
+`orders` - master order record. Contains information about completed customer orders (does not include line-items).
+<br>
+`orders__fulfillments` - created when fulfillment is created. Includes tracking number and carrier.
+
 You don't necessarily want to send your confirmation email. 
 
 <script src="https://gist.github.com/mattrbahr/7ed95e950870b16096a413889d492b18.js"></script>
