@@ -13,7 +13,7 @@ Many of the posts on this blog will involve SQL written to query Shopify data. T
 If you don't already have a data warehouse created with your Shopify data and don't have an internal data engineering resource, [follow this link](https://www.enquirelabs.com/post/setup-a-postgres-database-with-your-shopify-data-developer-not-required) for simple setup instructions. If you have any questions or need help getting setup, contact me [here](/about).
 
 ### Consultants
-<a href="http://orita.ai" target="blank">Orita</a>
+<a href="www.orita.ai" target="blank">Orita</a>
 
 ### Managed Solution
 <a href="https://daasity.com" target="blank">Daasity</a>
