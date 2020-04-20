@@ -19,6 +19,6 @@ If you don't already have a data warehouse created with your Shopify data and do
 <a href="https://daasity.com" target="blank">Daasity</a>
 
 ### Clients
-* <a href="https://eggerapps.at/postico/">Postico</a> - Mac Postgre Client
+* <a href="https://eggerapps.at/postico/">Postico</a> - Mac Postgres Client
 * <a href="https://redash.io/">Redash</a> - Cloud-based Client + Visualization Tool
 * <a href="https://looker.com/">Looker</a> - Enterprise Analytics Platform
