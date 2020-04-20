@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Repeat Rate By First Product Purchased
+title: What Products Lead To The Highest Customer Repeat Rate?
 author: matt_bahr
 date: '2020-04-20 12:00:00'
 categories: sql
 intro_paragraph: >
-  What products lead to the highest customer repeat rate?
+  A look into customer repeat rates and what products they purchased first. 
 ---
 
 At EnquireLabs, we often talk about the *birth of the customer* and how important that first order is. In this query, we'll be looking at what items customers buy in that first order and how that compares to their repeat rate. 
