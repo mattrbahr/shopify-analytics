@@ -1,12 +1,10 @@
 # specify main menu items here
 
-- text: Home
-  url: /
-- text: About
-  url: /about
-- text: Subscribe
-  url: /subscribe
 - text: Blog
   url: /blog
+- text: Subscribe
+  url: /subscribe
 - text: Resources
   url: /resources
+- text: Contact
+  url: /Contact
