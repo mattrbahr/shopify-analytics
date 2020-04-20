@@ -8,14 +8,16 @@ intro_paragraph: >
   What is the time between order created and shipping confirmation sent?
 ---
 
+This week's analysis looks at the time difference between when an order is placed and when a customer recieves a shipping confirmation email. In Shopify, shipping confirmation emails are automatically sent when a tracking number is added to an order. Fast order processing is, of course, a value proposition. The time of day in which an order is placed is also a factor. 
 
-This week we'll be looking at the time between when an order is placed to when a customer receives their order confirmation email.
+I think it's safe to assume, a lot of DTC brands are seeing a bit of increase in their order processing times given the current state of affairs.
 
-`orders` - master order record. Contains information about completed customer orders (does not include line-items).
+In this query, we'll be using the `created_at` timestamps from the **orders** table and **orders__fulfillments** table. To do this, we simply join these two tables on `order_id` and compare the timestamps. For easy analysis, I  grouped the averages by month to see month-over-month changes. 
+
+For reference:<br>
+**orders table** - master order record. Contains information about completed customer orders (does not include line-items).
 <br>
-`orders__fulfillments` - created when fulfillment is created. Includes tracking number and carrier.
-
-You don't necessarily want to send your confirmation email. 
+**orders__fulfillments table** - created when fulfillment is created. Includes tracking number and carrier.
 
 <script src="https://gist.github.com/mattrbahr/7ed95e950870b16096a413889d492b18.js"></script>
 
