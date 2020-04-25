@@ -6,6 +6,7 @@ date: '2020-04-13 12:00:00'
 categories: sql
 intro_paragraph: >
   What is the time between order created and shipping confirmation sent?
+description: A SQL query anlyzing the time between when an order is placed and when it's shipped.
 ---
 
 This week’s analysis looks at the time difference between when an order is placed and when a customer receives a shipping confirmation email. In Shopify, shipping confirmation emails are automatically sent when a tracking number is added to an order. Fast order processing is, of course, a value proposition. The time of day in which an order is placed is also a factor.

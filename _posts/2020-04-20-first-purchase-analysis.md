@@ -6,6 +6,7 @@ date: '2020-04-20 12:00:00'
 categories: sql
 intro_paragraph: >
   A look into customer repeat rates and what products they purchased first. 
+description: A SQL query analyzing customer repeat rates based on what products they purchased first.
 ---
 
 At EnquireLabs, we often talk about the *birth of the customer* and how important that first order is. In this query, we'll be looking at what items customers buy in that first order and how that compares to their repeat rate. 
