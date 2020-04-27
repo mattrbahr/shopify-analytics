@@ -3,7 +3,7 @@ layout: post
 title: What Products Lead To The Highest Customer Repeat Rate?
 author: matt_bahr
 date: '2020-04-20 12:00:00'
-categories: sql
+categories: sql, retention
 intro_paragraph: >
   A look into customer repeat rates and what products they purchased first. 
 description: A SQL query analyzing customer repeat rates based on what products they purchased first.

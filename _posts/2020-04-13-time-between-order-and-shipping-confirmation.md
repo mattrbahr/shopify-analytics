@@ -3,7 +3,7 @@ layout: post
 title: How Fast Do You Ship Your Orders?
 author: matt_bahr
 date: '2020-04-13 12:00:00'
-categories: sql
+categories: sql, cx
 intro_paragraph: >
   What is the time between order created and shipping confirmation sent?
 description: A SQL query anlyzing the time between when an order is placed and when it's shipped.
