@@ -19,6 +19,9 @@ If you don't already have a data warehouse created with your Shopify data and do
 <a href="https://daasity.com" target="blank">Daasity</a>
 
 ### Clients
-* <a href="https://eggerapps.at/postico/">Postico</a> - Mac Postgres Client
-* <a href="https://redash.io/">Redash</a> - Cloud-based Client + Visualization Tool
-* <a href="https://looker.com/">Looker</a> - Enterprise Analytics Platform
+<a href="https://eggerapps.at/postico/">Postico</a> - Mac Postgres Client<br>
+<a href="https://redash.io/">Redash</a> - Cloud-based Client + Visualization Tool<br>
+<a href="https://looker.com/">Looker</a> - Enterprise Analytics Platform
+
+### SQL
+Unfamiliar with SQL? Don't be intimidated. SQL statements are, for the most part, written like simple English sentences. I'd recommend creating a database and playing around with your data prior to taking any formal course (will certainly be more fun). If you'd like to take an introductory online course, I'd recommend [SQLBolt](https://sqlbolt.com/). It's free.  
