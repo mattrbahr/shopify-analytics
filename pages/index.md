@@ -4,5 +4,5 @@ title: Welcome
 permalink: /
 section: home
 intro_paragraph: >
-  [ShopifyAnalytics.blog](https://shopifyanalytics.blog) was created as a central resource for all things Shopify analytics. Want weekly insights & resources? [Subscribe here](/subscribe).
+  DTC Analytics (formerly ShopifyAnalytics.blog) was created as a central resource for all things Shopify analytics. Want weekly insights & resources? [Subscribe here](/subscribe).
 ---
