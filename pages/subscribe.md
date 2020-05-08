@@ -6,4 +6,4 @@ section: subscribe
 ---
 
 
-Interested in receiving an email when we publish a new query or add a new analytics resource? Submit your email below to subscribe. Emails sent every Monday. *We'll never share your email  or use it for any other purpose.*
+Interested in receiving an email when we publish a new query or add a new analytics resource? Submit your email below to subscribe. Emails sent once a week. *We'll never share your email  or use it for any other purpose.*
