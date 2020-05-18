@@ -7,5 +7,5 @@ intro_paragraph: >
   This is the about page. It's a work-in-progress.
 ---
 
-Have a question about a specific query? Looking to chat Shopify or just general ecommerce analytics? Feel free to get in touch.
+
 
