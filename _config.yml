@@ -18,7 +18,7 @@ email: mattrbahr@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog dedicated to Shopify analytics.
 baseurl: "" # the subpath of your site if applicable, e.g. /blog
-url: "https://shopifyanalytics.blog" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://quantified.blog" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Permalink format (/blog/ is ignored for pages)
 permalink: /blog/:title
@@ -77,7 +77,7 @@ kramdown:
       start_line: 1
 
 # Sitemap
-url: "https://shopifyanalytics.blog" 
+url: "https://quantified.blog" 
 plugins:
   - jekyll-sitemap
 
