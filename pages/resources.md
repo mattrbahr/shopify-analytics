@@ -16,7 +16,8 @@ If you don't already have a data warehouse created with your Shopify data and do
 <a href="http://orita.ai/" target="blank">Orita</a>
 
 ### Managed Solutions
-<a href="https://daasity.com" target="blank">Daasity</a>
+<a href="https://daasity.com" target="_blank">Daasity</a>
+<a href="https://www.nautilusanalytics.com/" target="_blank">Nautilus</a>
 
 ### Clients
 <a href="https://eggerapps.at/postico/">Postico</a> - Mac Postgres Client<br>
