@@ -5,7 +5,7 @@ author: matt_bahr
 date: '2020-05-18 12:00:00'
 categories: sql
 intro_paragraph: >
-  Part 1 of a multi-part cohort analysis series.
+  A simple query to help understand ROI by cohort.
 ---
 A cohort is a group of customers who share a common characteristic over a certain period of time. Typically, within ecommerce this common characteristic is month of first purchase, but it can be any variable you can segment your customers by (products purchased, last-click UTMs, subscribed to email list, etc). It's valuable for a multitude of reasons, most notably evaluating cohort profitability and understanding repeat purchase behavior.
 
