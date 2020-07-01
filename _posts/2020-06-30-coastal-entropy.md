@@ -9,7 +9,7 @@ intro_paragraph: >
 description: A SQL query customer distribution across America.
 ---
 
-Brands that cater solely to the coasts and therefore lack a more even distribution across America typically have less upside. As a brand matures, can they take the success they've had in cities like NYC and LA and expand to a broader audience in middle America? This concept is quite important in understanding the intrinsic value of a DTC brand at any given time. Tim Armstrong's company, DTX, launched [Unbox](), a service built for the sole purpose of helping brands expand beyond major coastal cities. 
+Brands that cater solely to the coasts and therefore lack a more even distribution across America typically have less upside. As a brand matures, can they take the success they've had in cities like NYC and LA and expand to a broader audience in middle America? This concept is quite important in understanding the intrinsic value of a DTC brand at any given time. Tim Armstrong's company, DTX, launched [Unbox](https://www.modernretail.co/platforms/the-dtx-company-is-building-a-technology-platform-to-boost-dtc-brand-marketing-efforts/), a service built for the sole purpose of helping brands expand beyond major coastal cities. 
 
 Historically, there has been no sole metric to help a brand owner see which way they’re trending–coastal or non-coastal. In this week's query, we'll take concepts from information theory to create a value that allows a brand owner or marketer to understand how "coastal" they are and if their sales are becoming more or less distributed across the country.
 
@@ -19,7 +19,7 @@ Hypothetically, we can use other calculations like `probability_coastal/probabil
 
 We often hear brands laud when they've shipped to all 50 states, but how distributed are they really? Let's find out. 
 
-We'll start by creating a table containing the population of each state and if they’re coastal. I’ve simply gone through and manually labeled the states on each coast–you could also create your own labeling system if you’d like to measure a different variable (i.e east vs west). To add this data to your database simply run [this query](). We need population data to normalize our data set so we don’t over value states with greater or lesser populations (i.e. California compared to Wyoming). 
+We'll start by creating a table containing the population of each state and if they’re coastal. I’ve simply gone through and manually labeled the states on each coast–you could also create your own labeling system if you’d like to measure a different variable (i.e east vs west). To add this data to your database simply run [this query](https://gist.github.com/mattrbahr/6c24fccf7cea332c0e0fe79b774fca33). We need population data to normalize our data set so we don’t over value states with greater or lesser populations (i.e. California compared to Wyoming). 
 
 We’ll then join this data with our order history by month and calculate the normalized distribution of coastal vs. non-coastal orders. The output will look like the below:
 
