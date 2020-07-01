@@ -9,7 +9,7 @@ intro_paragraph: >
 description: A SQL query customer distribution across America.
 ---
 
-Brands that cater solely to the coasts and lack a more even distribution across America typically have less upside. As a brand matures, can they take the success they've had in cities like NYC and LA and expand to a broader audience in middle America? This concept is quite important in understanding the intrinsic value of a DTC brand at any given time. Tim Armstrong's company, DTX, launched [Unbox](), a service built for the sole purpose of helping brands expand beyond major coastal cities. 
+Brands that cater solely to the coasts and therefore lack a more even distribution across America typically have less upside. As a brand matures, can they take the success they've had in cities like NYC and LA and expand to a broader audience in middle America? This concept is quite important in understanding the intrinsic value of a DTC brand at any given time. Tim Armstrong's company, DTX, launched [Unbox](), a service built for the sole purpose of helping brands expand beyond major coastal cities. 
 
 Historically, there has been no sole metric to help a brand owner see which way they’re trending–coastal or non-coastal. In this week's query, we'll take concepts from information theory to create a value that allows a brand owner or marketer to understand how "coastal" they are and if their sales are becoming more or less distributed across the country.
 
