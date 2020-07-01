@@ -109,3 +109,6 @@ The output of this table will look like the below.
 We can then chart this data to more easily see changes over time.
 <center>
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0soiRxqiPmiY3MgWH-7COjN3K2OtKAaKmInLx671DAHpZfkJRC5yLwgcueGlHPzcGk5_F3rsJAqXo/pubchart?oid=1552290352&amp;format=interactive"></iframe></center>
+
+<br>
+Thanks to Zack and DB from [Orita.ai](https://orita.ai) for the help with this one. 
