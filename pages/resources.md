@@ -20,7 +20,7 @@ If you don't already have a data warehouse created with your Shopify data and do
 <a href="https://www.nautilusanalytics.com/" target="_blank">Nautilus</a>
 
 ### Clients
-<a href="https://eggerapps.at/postico/">Postico</a> - Mac Postgres Client<br>
+<a href="https://tableplus.com/">TablePlus</a> - Postgres Client for Mac & PC<br>
 <a href="https://redash.io/">Redash</a> - Cloud-based Client + Visualization Tool<br>
 <a href="https://looker.com/">Looker</a> - Enterprise Analytics Platform
 
