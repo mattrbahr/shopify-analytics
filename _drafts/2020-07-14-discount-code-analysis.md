@@ -2,7 +2,7 @@
 layout: post
 title: How do discounts affect AOV and LTV?
 author: matt_bahr
-date: '2020-07-14 12:01:00'
+date: '2020-07-14 12:00:00'
 categories: sql
 intro_paragraph: >
   Do users who use discount codes on their first purchase spend more over time?
